@@ -1,0 +1,9 @@
+
+.moment-section {
+    position: relative;
+}
+.toast-position {
+    position: absolute;
+    top: 140px;
+    left: 853px;
+}
