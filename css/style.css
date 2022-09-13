@@ -1,4 +1,4 @@
-
+/* Moment Section */
 .moment-section {
     position: relative;
 }
@@ -6,4 +6,7 @@
     position: absolute;
     top: 140px;
     left: 853px;
+}
+.toast-border {
+    border-left: 7px solid #0d6efd;
 }
