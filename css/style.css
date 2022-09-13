@@ -1,6 +1,7 @@
 /* Moment Section */
 .moment-section {
     position: relative;
+    margin-bottom: 6rem;
 }
 .toast-position {
     position: absolute;
@@ -9,4 +10,22 @@
 }
 .toast-border {
     border-left: 7px solid #0d6efd;
+}
+
+/* Packages Section */
+.sec-package {
+    margin-bottom: 6rem;
+}
+.check-icon {
+    /* background-color: rgba(237, 235, 248, 1); */
+    color: blue;
+}
+/* Hot Package */
+.hot-one {
+    position: relative;
+}
+.hot-one span {
+    position: absolute;
+    top: -0.6rem;
+    left: 13.6rem;
 }
